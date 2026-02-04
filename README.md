@@ -5,7 +5,7 @@ It focuses on functions, memory access, pointer usage, and fundamental manipulat
 
 ---
 
-## 📘 Topics Covered
+## Topics Covered
 
 - Pointers and pointer arithmetic  
 - Manipulating arrays and strings  
@@ -32,7 +32,7 @@ C_05/
 
 Each `.c` file corresponds to an individual exercise.
 
-### 📌 Structural Transparency Note
+### Structural Transparency Note
 
 For readability and transparency, the exercise files in this repository
 are stored at the root level.
@@ -44,7 +44,7 @@ They were later flattened for easier browsing and code review.
 
 ---
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 By completing this module, I strengthened my abilities in:
 
@@ -55,7 +55,7 @@ By completing this module, I strengthened my abilities in:
 
 ---
 
-## 📍 Part of My 42 Learning Path
+## Part of My 42 Learning Path
 
 This module is part of the foundational Piscine series that prepared me for
 larger system-level projects such as:
@@ -69,7 +69,7 @@ It represents a key step in developing confidence with core C concepts.
 
 ---
 
-## 📌 Notes
+## Notes
 
 - Developed and tested on Linux  
 - Compiled using `gcc`  
